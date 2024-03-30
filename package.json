@@ -2,7 +2,7 @@
   "name": "demo1",
   "version": "8.0.38",
   "private": true,
-  "homepage": "https://ayaetman.github.io/demo1-arabic",
+  "homepage": "https://yourusername.github.io/repository-name",
   "dependencies": {
     "@formatjs/intl-pluralrules": "^4.0.28",
     "@formatjs/intl-relativetimeformat": "^9.1.7",
